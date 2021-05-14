@@ -1,0 +1,8 @@
+.image-item {
+    border: 2px solid #EB97FB;
+    border-radius: 2px;
+}
+
+.image-item > .imagem {
+    width: 100%;
+}

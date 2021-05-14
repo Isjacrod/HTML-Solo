@@ -1,0 +1,23 @@
+body {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0597F2;
+    font-weight: normal;
+    color: #fff;
+}
+
+h1, h2, h3, h4, body, ul {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    color: #EB97FB;
+    text-decoration: none;
+
+}
+
+a:hover {
+    color: #C22084;
+    text-decoration: underline;
+    font-weight: bold;
+}

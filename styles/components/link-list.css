@@ -1,0 +1,9 @@
+.link-list {
+    display: inline-flex;
+}
+
+.linkwrapper {
+    margin: 0;
+    list-style: none;
+    margin-left: 15px;
+}
